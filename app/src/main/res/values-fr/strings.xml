@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="localization_text">Ceci est mon premier projet de localisation Android!</string>
+</resources>
